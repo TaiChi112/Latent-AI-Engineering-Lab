@@ -7,20 +7,6 @@ Language options:
 - English: [README.md](d:\RepositoryVS\Codex\README.md)
 - Thai: [docs/README.th.md](d:\RepositoryVS\Codex\docs\README.th.md)
 
-## Suggested GitHub Name
-
-- `recommender-sandbox-mvp`
-- `reco-lab-webapp`
-- `dataset-driven-recommender-mvp`
-
-Recommended repo name:
-
-- `recommender-sandbox-mvp`
-
-## Suggested GitHub Description
-
-Full-stack recommender system sandbox for testing dataset-driven recommendations, offline evaluation, and domain scenarios like e-commerce and coffee ordering.
-
 ## Quick Start
 
 ### 1. Clone the repository
