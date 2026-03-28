@@ -13,7 +13,7 @@ Language options:
 
 ```powershell
 git clone <your-repository-url>
-cd recommender-sandbox-mvp
+cd Latent-AI-Engineering-Lab
 ```
 
 ### 2. Start the backend
