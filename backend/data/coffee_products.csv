@@ -1,0 +1,13 @@
+item_id,title,category,price
+CF001,Hot Latte,Coffee,4.5
+CF002,Iced Americano,Coffee,4.0
+CF003,Cappuccino,Coffee,4.75
+CF004,Mocha,Coffee,5.25
+CF005,Flat White,Coffee,4.8
+CF006,Matcha Latte,Tea,5.0
+CF007,Croissant,Bakery,3.2
+CF008,Blueberry Muffin,Bakery,3.6
+CF009,Ham Cheese Sandwich,Ready-to-Eat,6.9
+CF010,Chicken Wrap,Ready-to-Eat,7.4
+CF011,Tiramisu Slice,Dessert,4.9
+CF012,Chocolate Cookie,Dessert,2.8
